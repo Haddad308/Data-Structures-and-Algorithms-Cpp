@@ -5,7 +5,7 @@
 using namespace std;
 #define fast ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 
-// This Solution is made by: Eng.Mohamed El-Haddad 
+// This code is made by: Eng.Mohamed El-Haddad
 
 bool is_prime(int x)
 {
@@ -15,7 +15,7 @@ bool is_prime(int x)
     // 2 is prime
     if(x == 2)
         return 1;
-    // ant even number is prime
+    // any even number is prime
     if(x % 2 == 0)
         return  0 ;
 
