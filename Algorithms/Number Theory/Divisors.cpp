@@ -42,7 +42,6 @@ vector<int> find_divisors(int x)
 
 int main() {
     fast
-    freopen("In.txt",  "rt" , stdin );
     int x ;
     cin  >> x  ;
     vector<int> foo = find_divisors(x) ;
