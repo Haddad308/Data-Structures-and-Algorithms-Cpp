@@ -3,6 +3,15 @@
 ## Data Structure 
 - Stack 
 - Queue
+
 ## Algorithms 
-### Number Theory 
+
+### 1- Number Theory :
+- Binary Exponentiation (Fast Power)
+- Greatest Common Divisor (GCD)
+- Least Common Multiple (LCM)
+- Check_prime
+- Divisors
+- Prime Factorization
+- Sieve
 
