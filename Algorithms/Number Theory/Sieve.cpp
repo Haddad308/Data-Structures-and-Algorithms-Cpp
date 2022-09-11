@@ -8,7 +8,6 @@ using namespace std;
 const int N = 1e6 ;
 bool Numbers[N];
 
-// This Solution is made by: Eng.Mohamed El-Haddad
 
 /*
  * Seive algorithms to find prime number from 1 to n
