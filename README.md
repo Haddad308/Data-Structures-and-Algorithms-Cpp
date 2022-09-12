@@ -1,5 +1,5 @@
 # Content
-> In the following repository there are Data structures and algorithms code from Scratch that you may have learned.  
+> In the following repository there are Data structures and algorithms code from Scratch with description .  
 > Not completed Yet, Still Working on. 
 ## Data Structure 
 ### 1- Linear Data Structure 
