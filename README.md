@@ -16,4 +16,9 @@
 - Divisors
 - Prime Factorization
 - Sieve
+- Product Rule (nPr)
+- Sum Rule (nCr)
 
+### 2- Sorting 
+- Bubble Sort 
+- Selection Sort 
