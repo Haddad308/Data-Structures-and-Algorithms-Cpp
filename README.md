@@ -24,8 +24,8 @@
 
 
 ### 2- Sorting 
-- Bubble Sort 
 - Selection Sort 
 - Insertion Sort
+- Bubble Sort 
 - Merge Sort 
 - Quik Sort 
