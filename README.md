@@ -5,6 +5,9 @@
 ### 1- Linear Data Structure 
 - Stack 
 - Queue
+### 2- Non-Linear Data Structure
+- Tree 
+
 
 ## Algorithms 
 
@@ -12,13 +15,17 @@
 - Binary Exponentiation (Fast Power)
 - Greatest Common Divisor (GCD)
 - Least Common Multiple (LCM)
+- Prime Factorization
+- Product Rule 
+- Sum Rule 
 - Check_prime
 - Divisors
-- Prime Factorization
 - Sieve
-- Product Rule (nPr)
-- Sum Rule (nCr)
+
 
 ### 2- Sorting 
 - Bubble Sort 
 - Selection Sort 
+- Insertion Sort
+- Merge Sort 
+- Quik Sort 
