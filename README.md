@@ -5,6 +5,7 @@
 ### 1- Linear Data Structure 
 - Stack 
 - Queue
+- Linked-list 
 ### 2- Non-Linear Data Structure
 - Tree 
 
