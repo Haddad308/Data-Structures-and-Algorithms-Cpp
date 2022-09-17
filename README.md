@@ -1,10 +1,13 @@
 # Content
-> In the following repository there are Data structures and algorithms code from Scratch that you may have learned.  
+> In the following repository there are Data structures and algorithms code from Scratch with description .  
 > Not completed Yet, Still Working on. 
 ## Data Structure 
 ### 1- Linear Data Structure 
 - Stack 
 - Queue
+### 2- Non-Linear Data Structure
+- Tree 
+
 
 ## Algorithms 
 
@@ -12,8 +15,17 @@
 - Binary Exponentiation (Fast Power)
 - Greatest Common Divisor (GCD)
 - Least Common Multiple (LCM)
+- Prime Factorization
+- Product Rule 
+- Sum Rule 
 - Check_prime
 - Divisors
-- Prime Factorization
 - Sieve
 
+
+### 2- Sorting 
+- Selection Sort 
+- Insertion Sort
+- Bubble Sort 
+- Merge Sort 
+- Quik Sort 
