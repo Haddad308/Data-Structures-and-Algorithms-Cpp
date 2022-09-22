@@ -3,8 +3,11 @@
 > Not completed Yet, Still Working on. 
 ## Data Structure 
 ### 1- Linear Data Structure 
+- Linked-list
+- Queue 
 - Stack 
-- Queue
+- Vector
+
 ### 2- Non-Linear Data Structure
 - Tree 
 
