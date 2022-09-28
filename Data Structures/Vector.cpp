@@ -2,7 +2,7 @@
 using namespace std;
 
 /*
- * Vector Functions
+ * Vector methods 
  * 1- push back
  * 2- push Front
  * 3- Pop back
