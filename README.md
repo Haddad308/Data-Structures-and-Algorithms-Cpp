@@ -8,8 +8,7 @@
 - Stack 
 - Vector
 
-### 2- Non-Linear Data Structure
-- Tree 
+
 
 
 ## Algorithms 
