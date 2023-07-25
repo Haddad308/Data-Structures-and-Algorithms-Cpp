@@ -25,7 +25,7 @@
 - Sieve
 
 
-### 2- Sorting 
+### 2- Sorting :
 - Selection Sort 
 - Insertion Sort
 - Bubble Sort 
